@@ -9,10 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>webapp</module>
-        <module>webdao</module>
-        <module>webservice</module>
-        <module>webmodel</module>
+        <module>web-app</module>
+        <module>web-service</module>
+        <module>web-dao</module>
+        <module>web-common</module>
     </modules>
 
     <properties>
